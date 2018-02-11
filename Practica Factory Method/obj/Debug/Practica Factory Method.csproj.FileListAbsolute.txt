@@ -1,0 +1,12 @@
+D:\ESCUELA\9no\c#\Practica Factory Method\Practica Factory Method\bin\Debug\Practica Factory Method.exe.config
+D:\ESCUELA\9no\c#\Practica Factory Method\Practica Factory Method\bin\Debug\Practica Factory Method.exe
+D:\ESCUELA\9no\c#\Practica Factory Method\Practica Factory Method\bin\Debug\Practica Factory Method.pdb
+D:\ESCUELA\9no\c#\Practica Factory Method\Practica Factory Method\obj\Debug\Practica Factory Method.csprojResolveAssemblyReference.cache
+D:\ESCUELA\9no\c#\Practica Factory Method\Practica Factory Method\obj\Debug\Practica_Factory_Method.Form1.resources
+D:\ESCUELA\9no\c#\Practica Factory Method\Practica Factory Method\obj\Debug\Practica_Factory_Method.Properties.Resources.resources
+D:\ESCUELA\9no\c#\Practica Factory Method\Practica Factory Method\obj\Debug\Practica Factory Method.csproj.GenerateResource.Cache
+D:\ESCUELA\9no\c#\Practica Factory Method\Practica Factory Method\obj\Debug\Practica Factory Method.exe
+D:\ESCUELA\9no\c#\Practica Factory Method\Practica Factory Method\obj\Debug\Practica Factory Method.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\Practica Factory Method\Practica Factory Method\bin\Debug\Practica Factory Method.exe.config
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\Practica Factory Method\Practica Factory Method\obj\Debug\Practica Factory Method.exe
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\Practica Factory Method\Practica Factory Method\obj\Debug\Practica Factory Method.pdb
